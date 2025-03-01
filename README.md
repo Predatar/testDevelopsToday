@@ -14,8 +14,8 @@ A Next.js application that allows users to search for recipes based on keywords,
 1️⃣ Clone the repository:
 
 ```bash
-	git clone https://github.com/Predatar/recipe-search-app.git
-	cd recipe-search-app
+	git clone https://github.com/Predatar/testDevelopsToday.git
+	cd testDevelopsToday
 ```
 
 2️⃣ Install dependencies:
